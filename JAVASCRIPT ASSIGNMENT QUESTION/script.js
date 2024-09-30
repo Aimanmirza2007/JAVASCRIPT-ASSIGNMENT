@@ -5,7 +5,7 @@
 //alert is a pop up when user enter a website to diplay alert like welcome to website , what's your name .The alert 
 //is also used to take input from user
 
-//QUESTION N02 variable for string
+//QUESTION N02 
 alert("Welcome to my Website!")
 
 //QUESTION N03
@@ -25,7 +25,7 @@ alert("Hey viewer!")
 // you can also use an exclamation mark or  semicolon
 //the user must click on ok button
 
-//CHAPTER NO 02
+//CHAPTER NO 02 Variable for string
 //QUESTION NO 01
 
 var messege = "Hello, world!"
