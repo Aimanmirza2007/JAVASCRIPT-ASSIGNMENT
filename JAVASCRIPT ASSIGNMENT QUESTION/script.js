@@ -5,7 +5,7 @@
 //alert is a pop up when user enter a website to diplay alert like welcome to website , what's your name .The alert 
 //is also used to take input from user
 
-//QUESTION N02
+//QUESTION N02 variable for string
 alert("Welcome to my Website!")
 
 //QUESTION N03
